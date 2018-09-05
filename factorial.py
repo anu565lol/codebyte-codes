@@ -11,4 +11,4 @@ def FirstFactorial(num):
     return fact
     
 # keep this function call here  
-print FirstFactorial(raw_input())
+print FirstFactorial(raw_input("Enrter the numbet for the factorial: "))
